@@ -1,0 +1,33 @@
+C:\Dropbox\swifect_share\classLibrarySWIFECT-MULIA\classlibobj\obj\Debug\ResolveAssemblyReference.cache
+C:\Dropbox\swifect_share\classLibrarySWIFECT-MULIA\classlibobj\obj\Debug\GenerateResource.read.1.tlog
+C:\Dropbox\swifect_share\classLibrarySWIFECT-MULIA\classlibobj\obj\Debug\GenerateResource.write.1.tlog
+C:\Dropbox\swifect_share\classLibrarySWIFECT-MULIA\classlibobj\bin\Debug\classlibobj.dll
+C:\Dropbox\swifect_share\classLibrarySWIFECT-MULIA\classlibobj\bin\Debug\classlibobj.pdb
+C:\Dropbox\swifect_share\classLibrarySWIFECT-MULIA\classlibobj\bin\Debug\classlibobj.xml
+C:\Dropbox\swifect_share\classLibrarySWIFECT-MULIA\classlibobj\obj\Debug\classlibobj.Resources.resources
+C:\Dropbox\swifect_share\classLibrarySWIFECT-MULIA\classlibobj\obj\Debug\classlibobj.rscImg.resources
+C:\Dropbox\swifect_share\classLibrarySWIFECT-MULIA\classlibobj\obj\Debug\classlibobj.dll
+C:\Dropbox\swifect_share\classLibrarySWIFECT-MULIA\classlibobj\obj\Debug\classlibobj.xml
+C:\Dropbox\swifect_share\classLibrarySWIFECT-MULIA\classlibobj\obj\Debug\classlibobj.pdb
+C:\Users\IVHAN\Desktop\tempprojectsql\classtempprojectsql\classlibobj\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IVHAN\Desktop\tempprojectsql\classtempprojectsql\classlibobj\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\IVHAN\Desktop\tempprojectsql\classtempprojectsql\classlibobj\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\IVHAN\Desktop\tempprojectsql\classtempprojectsql\classlibobj\bin\Debug\classlibobj.dll
+C:\Users\IVHAN\Desktop\tempprojectsql\classtempprojectsql\classlibobj\bin\Debug\classlibobj.pdb
+C:\Users\IVHAN\Desktop\tempprojectsql\classtempprojectsql\classlibobj\bin\Debug\classlibobj.xml
+C:\Users\IVHAN\Desktop\tempprojectsql\classtempprojectsql\classlibobj\obj\Debug\classlibobj.Resources.resources
+C:\Users\IVHAN\Desktop\tempprojectsql\classtempprojectsql\classlibobj\obj\Debug\classlibobj.rscImg.resources
+C:\Users\IVHAN\Desktop\tempprojectsql\classtempprojectsql\classlibobj\obj\Debug\classlibobj.dll
+C:\Users\IVHAN\Desktop\tempprojectsql\classtempprojectsql\classlibobj\obj\Debug\classlibobj.xml
+C:\Users\IVHAN\Desktop\tempprojectsql\classtempprojectsql\classlibobj\obj\Debug\classlibobj.pdb
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibobj\bin\Debug\classlibobj.dll
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibobj\bin\Debug\classlibobj.pdb
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibobj\bin\Debug\classlibobj.xml
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibobj\obj\Debug\ResolveAssemblyReference.cache
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibobj\obj\Debug\classlibobj.Resources.resources
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibobj\obj\Debug\classlibobj.rscImg.resources
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibobj\obj\Debug\GenerateResource.read.1.tlog
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibobj\obj\Debug\GenerateResource.write.1.tlog
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibobj\obj\Debug\classlibobj.dll
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibobj\obj\Debug\classlibobj.xml
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibobj\obj\Debug\classlibobj.pdb

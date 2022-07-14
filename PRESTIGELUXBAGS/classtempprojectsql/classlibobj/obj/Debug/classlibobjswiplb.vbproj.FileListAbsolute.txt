@@ -1,0 +1,9 @@
+D:\Dropbox\Work\ON-GOING PROJECTS\PRESTIGELUXBAGS\classtempprojectsql\classlibobj\obj\Debug\classlibobjswiplb.vbproj.GenerateResource.Cache
+D:\Dropbox\Work\ON-GOING PROJECTS\PRESTIGELUXBAGS\classtempprojectsql\classlibobj\bin\Debug\classlibobjswiplb.dll
+D:\Dropbox\Work\ON-GOING PROJECTS\PRESTIGELUXBAGS\classtempprojectsql\classlibobj\bin\Debug\classlibobjswiplb.pdb
+D:\Dropbox\Work\ON-GOING PROJECTS\PRESTIGELUXBAGS\classtempprojectsql\classlibobj\bin\Debug\classlibobjswiplb.xml
+D:\Dropbox\Work\ON-GOING PROJECTS\PRESTIGELUXBAGS\classtempprojectsql\classlibobj\obj\Debug\classlibobjswiplb.Resources.resources
+D:\Dropbox\Work\ON-GOING PROJECTS\PRESTIGELUXBAGS\classtempprojectsql\classlibobj\obj\Debug\classlibobjswiplb.rscImg.resources
+D:\Dropbox\Work\ON-GOING PROJECTS\PRESTIGELUXBAGS\classtempprojectsql\classlibobj\obj\Debug\classlibobjswiplb.dll
+D:\Dropbox\Work\ON-GOING PROJECTS\PRESTIGELUXBAGS\classtempprojectsql\classlibobj\obj\Debug\classlibobjswiplb.xml
+D:\Dropbox\Work\ON-GOING PROJECTS\PRESTIGELUXBAGS\classtempprojectsql\classlibobj\obj\Debug\classlibobjswiplb.pdb

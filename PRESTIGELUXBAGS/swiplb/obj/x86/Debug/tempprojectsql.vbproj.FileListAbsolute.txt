@@ -1,0 +1,65 @@
+C:\Users\IVHAN\Desktop\tempprojectsql\tempprojectsql\bin\Debug\swisyMRS.exe.config
+C:\Users\IVHAN\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.exe
+C:\Users\IVHAN\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.xml
+C:\Users\IVHAN\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.pdb
+C:\Users\IVHAN\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IVHAN\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.aboutus.resources
+C:\Users\IVHAN\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.changepass.resources
+C:\Users\IVHAN\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.confirmtrans.resources
+C:\Users\IVHAN\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.cusr.resources
+C:\Users\IVHAN\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.dbconfig.resources
+C:\Users\IVHAN\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.usrpriv.resources
+C:\Users\IVHAN\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.mbp.resources
+C:\Users\IVHAN\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.menuutama.resources
+C:\Users\IVHAN\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.Resources.resources
+C:\Users\IVHAN\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.login.resources
+C:\Users\IVHAN\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.search.resources
+C:\Users\IVHAN\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.tsearch.resources
+C:\Users\IVHAN\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\IVHAN\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\IVHAN\Desktop\tempprojectsql\tempprojectsql\bin\Debug\swisyMRS.exe
+C:\Users\IVHAN\Desktop\tempprojectsql\tempprojectsql\bin\Debug\swisyMRS.pdb
+C:\Users\IVHAN\Desktop\tempprojectsql\tempprojectsql\bin\Debug\swisyMRS.xml
+C:\Users\IVHAN\Desktop\tempprojectsql\tempprojectsql\bin\Debug\classlibobj.dll
+C:\Users\IVHAN\Desktop\tempprojectsql\tempprojectsql\bin\Debug\classlibsys.dll
+C:\Users\IVHAN\Desktop\tempprojectsql\tempprojectsql\bin\Debug\classlibobj.pdb
+C:\Users\IVHAN\Desktop\tempprojectsql\tempprojectsql\bin\Debug\classlibobj.xml
+C:\Users\IVHAN\Desktop\tempprojectsql\tempprojectsql\bin\Debug\classlibsys.pdb
+C:\Users\IVHAN\Desktop\tempprojectsql\tempprojectsql\bin\Debug\classlibsys.xml
+C:\Users\Hans\Dropbox\SwifectShare\tempprojectsql\tempprojectsql\bin\Debug\swisyMRS.exe.config
+C:\Users\Hans\Dropbox\SwifectShare\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.exe
+C:\Users\Hans\Dropbox\SwifectShare\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.xml
+C:\Users\Hans\Dropbox\SwifectShare\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.pdb
+C:\Dropbox\Swifect Share\tempprojectsql\tempprojectsql\bin\Debug\swisyMRS.exe.config
+C:\Dropbox\Swifect Share\tempprojectsql\tempprojectsql\bin\Debug\swisyMRS.exe
+C:\Dropbox\Swifect Share\tempprojectsql\tempprojectsql\bin\Debug\swisyMRS.pdb
+C:\Dropbox\Swifect Share\tempprojectsql\tempprojectsql\bin\Debug\swisyMRS.xml
+C:\Dropbox\Swifect Share\tempprojectsql\tempprojectsql\bin\Debug\classlibobjexample.dll
+C:\Dropbox\Swifect Share\tempprojectsql\tempprojectsql\bin\Debug\classlibsysexample.dll
+C:\Dropbox\Swifect Share\tempprojectsql\tempprojectsql\bin\Debug\classlibobjexample.pdb
+C:\Dropbox\Swifect Share\tempprojectsql\tempprojectsql\bin\Debug\classlibobjexample.xml
+C:\Dropbox\Swifect Share\tempprojectsql\tempprojectsql\bin\Debug\classlibsysexample.pdb
+C:\Dropbox\Swifect Share\tempprojectsql\tempprojectsql\bin\Debug\classlibsysexample.xml
+C:\Dropbox\Swifect Share\tempprojectsql\tempprojectsql\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dropbox\Swifect Share\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.aboutus.resources
+C:\Dropbox\Swifect Share\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.changepass.resources
+C:\Dropbox\Swifect Share\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.confirmtrans.resources
+C:\Dropbox\Swifect Share\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.cusr.resources
+C:\Dropbox\Swifect Share\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.dbconfig.resources
+C:\Dropbox\Swifect Share\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.usrpriv.resources
+C:\Dropbox\Swifect Share\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.mbp.resources
+C:\Dropbox\Swifect Share\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.menuutama.resources
+C:\Dropbox\Swifect Share\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.Resources.resources
+C:\Dropbox\Swifect Share\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.login.resources
+C:\Dropbox\Swifect Share\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.search.resources
+C:\Dropbox\Swifect Share\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.tsearch.resources
+C:\Dropbox\Swifect Share\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.print.resources
+C:\Dropbox\Swifect Share\tempprojectsql\tempprojectsql\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dropbox\Swifect Share\tempprojectsql\tempprojectsql\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dropbox\Swifect Share\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.exe
+C:\Dropbox\Swifect Share\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.xml
+C:\Dropbox\Swifect Share\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.pdb
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\bin\Debug\swisyMRS.exe.config
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.exe
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.xml
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.pdb

@@ -1,0 +1,1137 @@
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\bin\Debug\swisyMRS.exe.config
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\bin\Debug\swisyMRS.exe
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\bin\Debug\swisyMRS.pdb
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\bin\Debug\swisyMRS.xml
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\bin\Debug\classlibobjswibc.dll
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\bin\Debug\classlibsysswibc.dll
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\bin\Debug\classlibobjswibc.pdb
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\bin\Debug\classlibobjswibc.xml
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\bin\Debug\classlibsysswibc.pdb
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\bin\Debug\classlibsysswibc.xml
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisybc.vbprojResolveAssemblyReference.cache
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.aboutus.resources
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.changepass.resources
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.confirmtrans.resources
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.cusr.resources
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.dbconfig.resources
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.usrpriv.resources
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.mbp.resources
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.menuutama.resources
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.Resources.resources
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.login.resources
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.search.resources
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.tsearch.resources
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.print.resources
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisybc.vbproj.GenerateResource.Cache
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.exe
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.xml
+C:\Users\Hans\Desktop\tempprojectsql\tempprojectsql\obj\x86\Debug\swisyMRS.pdb
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.aboutus.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.BC23.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.BC261.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.BC262.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.BC27In.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.BC27Out.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.BC30.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.BC40.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.BC41.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.uploadFileBC.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.changepass.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.csetting.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.cusr.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.dbconfig.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.usrpriv.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.tgi.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.tgr.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.mkpabean.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.mcurr.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.muom.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.mitem.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.mbp.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.menuutama.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.Resources.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.login.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.search.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.tsearch.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.print.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisybc.vbproj.GenerateResource.Cache
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\bin\Debug\swisyMRS.exe.config
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\bin\Debug\swisyMRS.exe
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\bin\Debug\swisyMRS.pdb
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\bin\Debug\swisyMRS.xml
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\bin\Debug\classlibobjswibc.dll
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\bin\Debug\classlibsysswibc.dll
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\bin\Debug\classlibobjswibc.pdb
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\bin\Debug\classlibobjswibc.xml
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\bin\Debug\classlibsysswibc.pdb
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\bin\Debug\classlibsysswibc.xml
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.exe
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.xml
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.pdb
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisybc.vbprojResolveAssemblyReference.cache
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.laporanmutasiscrap.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.laporanmutasiwip.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.laporanmutasibj.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.laporanmutasibb.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.laporanperdokpabean.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.onlineBC.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.print_b.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.print_a.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.laporanmutasimesin.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.tsopname.resources
+C:\Users\Hans\Desktop\SWISY-BC\tempprojectsql\obj\x86\Debug\swisyMRS.uploadData.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\bin\Debug\swisyBC.exe.config
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\bin\Debug\swisyBC.exe
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\bin\Debug\swisyBC.pdb
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\bin\Debug\swisyBC.xml
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\bin\Debug\classlibobjswibc.dll
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\bin\Debug\classlibsysswibc.dll
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\bin\Debug\classlibobjswibc.pdb
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\bin\Debug\classlibobjswibc.xml
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\bin\Debug\classlibsysswibc.pdb
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\bin\Debug\classlibsysswibc.xml
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.aboutus.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC23.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC261.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC262.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC27In.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC27Out.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC30.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC40.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC41.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.onlineBC.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.uploadFileBC.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.changepass.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.csetting.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.cusr.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.dbconfig.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.settingonline.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.usrpriv.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.hmstr.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.htrans.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.huserlog.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tgi.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tgr.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tsopname.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mkpabean.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mcurr.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.muom.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mitem.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mbp.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.menuutama.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.Resources.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.login.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.search.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tsearch.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.uploadData.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.print_b.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.print_a.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.print.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasimesin.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasiscrap.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasiwip.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasibj.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasibb.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanperdokpabean.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporandetailstock.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisybc.vbproj.GenerateResource.Cache
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.exe
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.xml
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.pdb
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC25.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mwhse.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.navprogram.resources
+C:\Users\Hans\Desktop\SWISY-BC\swisybc\obj\x86\Debug\swisybc.vbprojResolveAssemblyReference.cache
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\bin\Debug\swisyBC.exe.config
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.exe
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.xml
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.pdb
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\bin\Debug\swisyBC.exe
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\bin\Debug\swisyBC.pdb
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\bin\Debug\swisyBC.xml
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\bin\Debug\classlibobjswibc.dll
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\bin\Debug\classlibsysswibc.dll
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\bin\Debug\classlibobjswibc.pdb
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\bin\Debug\classlibobjswibc.xml
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\bin\Debug\classlibsysswibc.pdb
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\bin\Debug\classlibsysswibc.xml
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.aboutus.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC23.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC25.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC261.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC262.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC27In.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC27Out.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC30.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC40.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC41.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.onlineBC.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.uploadFileBC.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.changepass.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.csetting.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.cusr.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.dbconfig.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.settingonline.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.usrpriv.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.hmstr.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.htrans.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.huserlog.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tgi.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tgr.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tsopname.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mwhse.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mkpabean.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mcurr.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.muom.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mitem.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mbp.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.menuutama.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.Resources.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.login.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.navprogram.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.search.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tsearch.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.uploadData.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.print_b.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.print_a.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.print.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasimesin.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasiscrap.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasiwip.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasibj.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasibb.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanperdokpabean.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporandetailstock.resources
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dropbox\Swifect Share\SWISY-BC\swisybc\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\bin\Debug\swisyBC.exe.config
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.exe
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.xml
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.pdb
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\bin\Debug\swisyBC.exe
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\bin\Debug\swisyBC.pdb
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\bin\Debug\swisyBC.xml
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\bin\Debug\classlibobjswibc.dll
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\bin\Debug\classlibsysswibc.dll
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\bin\Debug\classlibobjswibc.pdb
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\bin\Debug\classlibobjswibc.xml
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\bin\Debug\classlibsysswibc.pdb
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\bin\Debug\classlibsysswibc.xml
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.aboutus.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC23.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC25.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC261.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC262.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC27In.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC27Out.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC30.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC40.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC41.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.onlineBC.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.uploadFileBC.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.changepass.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.csetting.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.cusr.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.dbconfig.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.settingonline.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.usrpriv.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.hmstr.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.htrans.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.huserlog.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tgi.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tgr.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tsopname.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mwhse.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mkpabean.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mcurr.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.muom.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mitem.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mbp.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.menuutama.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.Resources.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.login.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.navprogram.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.search.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tsearch.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.uploadData.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.print_b.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.print_a.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.print.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasimesin.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasiscrap.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasiwip.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasibj.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasibb.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanperdokpabean.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporandetailstock.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisybc.vbproj.GenerateResource.Cache
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporansummarydokumenpabean.resources
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.Shared.dll
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\bin\Debug\FlashControlV71.dll
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\bin\Debug\ShockwaveFlashObjects.dll
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Dropbox\SwifectShare\SWISY-BC\swisybc\bin\Debug\stdole.dll
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\swisyBC.exe.config
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.exe
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.xml
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.pdb
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\swisyBC.exe
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\swisyBC.pdb
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\swisyBC.xml
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\classlibobjswibc.dll
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\classlibsysswibc.dll
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\FlashControlV71.dll
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\stdole.dll
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\classlibobjswibc.pdb
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\classlibobjswibc.xml
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\classlibsysswibc.pdb
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\classlibsysswibc.xml
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.aboutus.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC23.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC25.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC261.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC262.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC27In.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC27Out.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC30.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC40.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC41.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.onlineBC.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.uploadFileBC.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.changepass.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.csetting.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.cusr.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.dbconfig.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.settingonline.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.usrpriv.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.hmstr.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.htrans.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.huserlog.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.tgi.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.tgr.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.tsopname.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.mwhse.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.mkpabean.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.mcurr.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.muom.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.mitem.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.mbp.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.menuutama.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.Resources.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.login.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.navprogram.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.search.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.tsearch.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.uploadData.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.print_b.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.print_a.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.print.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporansummarydokumenpabean.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporanmutasimesin.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporanmutasiscrap.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporanmutasiwip.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporanmutasibj.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporanmutasibb.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporanperdokpabean.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporandetailstock.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisybc.vbproj.GenerateResource.Cache
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.lapkartustock.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.cgetserial.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisybc.vbprojResolveAssemblyReference.cache
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\swisyBC.exe.config
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\swisyBC.exe
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\swisyBC.pdb
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\swisyBC.xml
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\classlibobjswibc.dll
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\classlibsysswibc.dll
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\FlashControlV71.dll
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\stdole.dll
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\classlibobjswibc.pdb
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\classlibobjswibc.xml
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\classlibsysswibc.pdb
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\classlibsysswibc.xml
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.aboutus.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC23.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC25.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC261.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC262.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC27In.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC27Out.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC30.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC40.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC41.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.onlineBC.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.cgetserial.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.uploadFileBC.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.changepass.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.csetting.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.cusr.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.dbconfig.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.settingonline.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.usrpriv.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.hmstr.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.htrans.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.huserlog.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.tgi.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.tgr.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.tsopname.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.mwhse.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.mkpabean.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.mcurr.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.muom.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.mitem.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.mbp.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.menuutama.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.Resources.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.login.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.navprogram.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.search.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.tsearch.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.uploadData.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.print_b.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.print_a.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.print.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporanperdokpabeangb.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporansummarydokumenpabean.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporanmutasimesin.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporanmutasiscrap.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporanmutasiwip.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporanmutasibj.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporanmutasibb.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporanperdokpabean.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.lapkartustock.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporandetailstock.resources
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisybc.vbproj.GenerateResource.Cache
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.exe
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.xml
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.pdb
+C:\Users\Hans\Desktop\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisybc.vbprojResolveAssemblyReference.cache
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\swisyBC.exe.config
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.exe
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.xml
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.pdb
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\swisyBC.exe
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\swisyBC.pdb
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\swisyBC.xml
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\classlibobjswibc.dll
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\classlibsysswibc.dll
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.Shared.dll
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\FlashControlV71.dll
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\ShockwaveFlashObjects.dll
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\stdole.dll
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\classlibobjswibc.pdb
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\classlibobjswibc.xml
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\classlibsysswibc.pdb
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\classlibsysswibc.xml
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.aboutus.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC23.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC25.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC261.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC262.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC27In.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC27Out.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC30.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC40.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC41.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.onlineBC.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.cgetserial.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.uploadFileBC.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.changepass.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.csetting.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.cusr.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.dbconfig.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.settingonline.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.usrpriv.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.hmstr.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.htrans.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.huserlog.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.tgi.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.tgr.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.tsopname.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.mwhse.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.mkpabean.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.mcurr.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.muom.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.mitem.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.mbp.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.menuutama.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.Resources.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.login.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.navprogram.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.search.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.tsearch.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.uploadData.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.print_b.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.print_a.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.print.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporanperdokpabeangb.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporansummarydokumenpabean.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporanmutasimesin.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporanmutasiscrap.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporanmutasiwip.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporanmutasibj.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporanmutasibb.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporanperdokpabean.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.lapkartustock.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporandetailstock.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisybc.vbproj.GenerateResource.Cache
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.cprinterconfig.resources
+D:\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisybc.vbprojResolveAssemblyReference.cache
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.aboutus.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC23.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC25.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC261.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC262.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC27In.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC27Out.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC30.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC40.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.BC41.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.onlineBC.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.cgetserial.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.cprinterconfig.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.dbconfig2.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.uploadData2.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.uploadFileBCC.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.uploadFileBC.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.changepass.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.csetting.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.cusr.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.dbconfig.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.settingonline.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.usrpriv.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.hmstr.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.htrans.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.huserlog.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.tgi.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.tgr.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.tsopname.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.mwhse.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.mkpabean.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.mcurr.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.muom.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.mitem.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.mbp.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.menuutama.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.Resources.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.login.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.navprogram.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.search.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.tsearch.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.uploadData.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.print_b.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.print_a.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.print.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporanperdokpabeangb.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporansummarydokumenpabean.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporanmutasimesin.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporanmutasiscrap.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporanmutasiwip.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporanmutasibj.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporanmutasibb.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporanperdokpabean.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.lapkartustock.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.laporandetailstock.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisybc.vbproj.GenerateResource.Cache
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.xml
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\swisyBC.exe.config
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\swisyBC.exe
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\swisyBC.pdb
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\swisyBC.xml
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\classlibobjswibc.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\classlibsysswibc.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.Shared.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\FlashControlV71.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\mysql.data.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\ShockwaveFlashObjects.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\stdole.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\classlibobjswibc.pdb
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\classlibobjswibc.xml
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\classlibsysswibc.pdb
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\bin\Debug\classlibsysswibc.xml
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.exe
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.pdb
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisyBC.onlineBC2.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC -- NEWEST DO NOT DELETE\swisybc\obj\x86\Debug\swisybc.vbprojResolveAssemblyReference.cache
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\2\swisyBC.exe.config
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\swisyBC.exe.config
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\swisyBC.exe
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\swisyBC.pdb
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\swisyBC.xml
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\classlibobjswibc.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\classlibsysswibc.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.Shared.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\FlashControlV71.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\mysql.data.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\ShockwaveFlashObjects.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\stdole.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\classlibobjswibc.pdb
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\classlibobjswibc.xml
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\classlibsysswibc.pdb
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\classlibsysswibc.xml
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.aboutus.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC23.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC25.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC261.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC262.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC27In.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC27Out.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC30.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC40.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC41.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.onlineBCOCI.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.onlineBC2.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.onlineBC.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.cgetserial.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.cprinterconfig.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.dbconfig2.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.uploadData2.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.uploadFileBCC.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.uploadFileBC.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.changepass.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.csetting.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.cusr.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.dbconfig.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.settingonline.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.usrpriv.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mcoa.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tje.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tps.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tpy.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mpaytp.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.msales.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mship.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mterm.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tadj.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.trf.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tifp.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mbom.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tpr.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.trfp.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tpo.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tpret.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tpv.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.trec.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tdo.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tiv.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tret.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tso.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.hmstr.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.htrans.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.huserlog.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.texchangerate.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tgi.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tgr.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tsopname.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mwhse.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mkpabean.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mcurr.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.muom.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mitem.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mbp.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.menuutama.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.Resources.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.login.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.navprogram.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.search.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tsearch.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.uploadData.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.print_b.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.print_a.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.print.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanperdokpabeangb.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporansummarydokumenpabean.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasimesin.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasiscrap.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasiwip.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasibj.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasibb.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanperdokpabean.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.lapkartustock.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporandetailstock.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisybc.vbproj.GenerateResource.Cache
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.exe
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.xml
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.pdb
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mgrp.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mconv.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rptms.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.lpProductionWork.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.lpMaterialStatus.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rpttr.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rptpw.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.Web.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\CRVsPackageLib.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\EnvDTE.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\VSLangProj.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\VsWebSite.Interop.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\EnvDTE80.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.aboutus.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC23.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC25.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC261.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC262.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC27In.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC27Out.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC30.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC40.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC41.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.onlineBCOCI.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.onlineBC2.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.onlineBC.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.caccount.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.cgetserial.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.cprinterconfig.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.dbconfig3.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.dbconfig2.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.uploadDataINTEGRATE.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.uploadData2.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.uploadFileBCC.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.uploadFileBC.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.changepass.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.csetting.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.cusr.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.dbconfig.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.settingonline.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.usrpriv.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.masset.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.massettp.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mcoa.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tje2.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tje.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.topay.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tps.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tpy.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mconv2.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mconv.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mcost.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mrate.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mgrp.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mpaytp.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.msales.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mship.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mterm.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tadj.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tsubout.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tsubin.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.trf.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tmr.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.trfp.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mbom.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tpr.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tifp.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tpo.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tpret.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tpur.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tpv.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.trec.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rpayable.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rptbs.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rptgl.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rptpl.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rpttjee.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rreceivable.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rrekeningdetail.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rlastprice.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rstockwhse.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rptstockdetail.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rptstockoverview.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rpurlastprice.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rptlpt.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rptsisapo.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rpurchaseaging.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rpurproduct.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rpursupplier.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rbestsellingproduct.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rptlst.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rptsisaso.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rsalcustomer.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rsalesaging.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rsalproduct.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rsalsales.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rptprodplan.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rpttr.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rptpw.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rptms.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tdo.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tiv.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tret.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tso.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tsq.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.hmstr.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.htrans.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.huserlog.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tgi.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tgr.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tsopname.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mwhse.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mkpabean.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mcurr.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.muom.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mitem.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mbp.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.menuutama.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.Resources.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.login.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.navprogram.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.search.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tsearch.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.uploadData.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.print_b.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.print_a.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.print.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanperdokpabeangb.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporansummarydokumenpabean.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasimesin.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasiscrap.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasiwip.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasibj.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasibb.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanperdokpabean.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.lpProductionWork.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.lpMaterialStatus.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.lapkartustock.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporandetailstock.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisybc.vbproj.GenerateResource.Cache
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.xml
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\swisyBC.exe.config
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\swisyBC.exe
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\swisyBC.pdb
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\swisyBC.xml
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\classlibobjswibc.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\classlibsysswibc.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\FlashControlV71.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\CRVsPackageLib.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\EnvDTE.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\VSLangProj.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\VsWebSite.Interop.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\EnvDTE80.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\stdole.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\classlibobjswibc.pdb
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\classlibobjswibc.xml
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\classlibsysswibc.pdb
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\classlibsysswibc.xml
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\EnvDTE.xml
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\VSLangProj.xml
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\VsWebSite.Interop.xml
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\EnvDTE80.xml
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.exe
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.pdb
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mbank.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.choosebranch.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mjetype.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\swisyBC.exe.config
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\swisyBC.exe
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\swisyBC.pdb
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\swisyBC.xml
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\classlibobjswibc.dll
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\classlibsysswibc.dll
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.Shared.dll
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.VSDesigner.dll
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.Web.dll
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\FlashControlV71.dll
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\CRVsPackageLib.dll
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\EnvDTE.dll
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\VSLangProj.dll
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\VsWebSite.Interop.dll
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\EnvDTE80.dll
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\ShockwaveFlashObjects.dll
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\stdole.dll
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\classlibobjswibc.pdb
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\classlibobjswibc.xml
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\classlibsysswibc.pdb
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\classlibsysswibc.xml
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\EnvDTE.xml
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\VSLangProj.xml
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\VsWebSite.Interop.xml
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\bin\Debug\EnvDTE80.xml
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisybc.vbproj.ResolveComReference.cache
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.aboutus.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC23.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC25.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC261.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC262.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC27In.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC27Out.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC30.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC40.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.BC41.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.onlineBCOCI.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.onlineBC2.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.onlineBC.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.caccountNEW.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.caccount.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.cgetserial.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.cprinterconfig.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.dbconfig3.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.dbconfig2.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.onlineSyncDate.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.uploadUSER.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.uploadHGA.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.uploadBEI.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.uploadTBI.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.uploadPOLG.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.uploadDataINTEGRATE.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.uploadData2.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.uploadFileBCC.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.uploadFileBC.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.changepass.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.csetting.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.cusr.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.dbconfig.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.settingonline.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.usrpriv.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.masset.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mcoatype.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mjetype.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.massettp.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mcoa.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tpostperiod.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.texratediff.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tdeprasset.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tclosing2.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tje2.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tje.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.topay.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tps.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tpy.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mconv2.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mconv.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mcost.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mrateNEW.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mrate.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mgrp.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mpaytp.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.msales.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mship.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mterm.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tadj.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tsubout.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tsubin.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.trf.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rpttprplan.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tmr.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.trfp.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mbom.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tpr.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tifp.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tpretnew.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tpo.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tpret.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tpur.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tcpret.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tpv.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.trec.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rpayable.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rpttb.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rptbs.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rptgl.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rptpl.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rpttjee.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rreceivable.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rrekeningdetail.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rlastprice.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rptstockvalue.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rpthasilproduksi.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rstockwhse.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rptstockdetail.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rptstockoverview.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rpurlastprice.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rptlpt.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rptsisapo.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rpurchaseaging.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rpurproduct.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rpurchaseordersum.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rpursuppliersummary.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rpursupplier.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rbestsellingproduct.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rptlst.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rptsisaso.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rcustomersummary.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rsalcustomer.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rsalesaging.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rsalproduct.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rsalsales.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rptprodplan.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rpttr.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rptpw.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rptms.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tretnew.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tdo.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tcret.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tiv.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tret.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tso.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tsq.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.hmstr.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.htrans.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.huserlog.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tgi.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tgr.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tsopname.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mvariety.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mprocess.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mbank.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mwhse.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mkpabean.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mcurr.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.muom.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mitem.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mbp.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.menuutama.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.Resources.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.choosebranch.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.login.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.navprogram.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.search.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.titemdetail.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tsearch.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.uploadData.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.documentprinting.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasibbOCI.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasibjOCI.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasimesinOCI.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasiscrapOCI.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasiwipOCI.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.print_b.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.print_a.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.print.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanperdokpabeangb.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporansummarydokumenpabean.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasimesin.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasiscrap.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasiwip.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasibj.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanmutasibb.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporanperdokpabean.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.lpProductionWork.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.lpMaterialStatus.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.lapkartustock.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.laporandetailstock.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rptstockdetailBC.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisybc.vbproj.GenerateResource.Cache
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.exe
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.xml
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.pdb
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.splash_intro.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rptstockoverviewval.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.mlock.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.onlineSyncMth.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tjeEEW.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.logindisp.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.tdataoverview.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.uploadUSERHGADHL.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.onlineSyncMthHGA.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisyBC.rptstockoverviewvalpyo.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\swisybc\obj\x86\Debug\swisybc.vbprojResolveAssemblyReference.cache
+C:\Users\HANS-PC\OneDrive\Desktop\TAATPAJAK APPS\swisybc\bin\Debug\swisyBC.exe.config
+C:\Users\HANS-PC\OneDrive\Desktop\TAATPAJAK APPS\swisybc\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\HANS-PC\OneDrive\Desktop\TAATPAJAK APPS\swisybc\obj\x86\Debug\swisybc.vbproj.ResolveComReference.cache
+C:\Users\HANS-PC\OneDrive\Desktop\TAATPAJAK APPS\swisybc\obj\x86\Debug\swisyBC.exe
+C:\Users\HANS-PC\OneDrive\Desktop\TAATPAJAK APPS\swisybc\obj\x86\Debug\swisyBC.xml
+C:\Users\HANS-PC\OneDrive\Desktop\TAATPAJAK APPS\swisybc\obj\x86\Debug\swisyBC.pdb

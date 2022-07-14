@@ -1,0 +1,9 @@
+C:\Users\HANS-PC\OneDrive\Desktop\TAATPAJAK APPS\classtempprojectsql\classlibsys\bin\Debug\classlibsysswibc.dll
+C:\Users\HANS-PC\OneDrive\Desktop\TAATPAJAK APPS\classtempprojectsql\classlibsys\bin\Debug\classlibsysswibc.pdb
+C:\Users\HANS-PC\OneDrive\Desktop\TAATPAJAK APPS\classtempprojectsql\classlibsys\bin\Debug\classlibsysswibc.xml
+C:\Users\HANS-PC\OneDrive\Desktop\TAATPAJAK APPS\classtempprojectsql\classlibsys\obj\Debug\classlibsyswitp.vbprojResolveAssemblyReference.cache
+C:\Users\HANS-PC\OneDrive\Desktop\TAATPAJAK APPS\classtempprojectsql\classlibsys\obj\Debug\classlibsysswibc.Resources.resources
+C:\Users\HANS-PC\OneDrive\Desktop\TAATPAJAK APPS\classtempprojectsql\classlibsys\obj\Debug\classlibsyswitp.vbproj.GenerateResource.Cache
+C:\Users\HANS-PC\OneDrive\Desktop\TAATPAJAK APPS\classtempprojectsql\classlibsys\obj\Debug\classlibsysswibc.dll
+C:\Users\HANS-PC\OneDrive\Desktop\TAATPAJAK APPS\classtempprojectsql\classlibsys\obj\Debug\classlibsysswibc.xml
+C:\Users\HANS-PC\OneDrive\Desktop\TAATPAJAK APPS\classtempprojectsql\classlibsys\obj\Debug\classlibsysswibc.pdb

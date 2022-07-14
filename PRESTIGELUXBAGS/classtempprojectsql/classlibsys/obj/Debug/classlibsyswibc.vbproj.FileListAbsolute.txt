@@ -1,0 +1,49 @@
+C:\Users\Hans\Desktop\tempprojectsql\classtempprojectsql\classlibsys\bin\Debug\classlibsysswibc.dll
+C:\Users\Hans\Desktop\tempprojectsql\classtempprojectsql\classlibsys\bin\Debug\classlibsysswibc.pdb
+C:\Users\Hans\Desktop\tempprojectsql\classtempprojectsql\classlibsys\bin\Debug\classlibsysswibc.xml
+C:\Users\Hans\Desktop\tempprojectsql\classtempprojectsql\classlibsys\obj\Debug\classlibsysswibc.Resources.resources
+C:\Users\Hans\Desktop\tempprojectsql\classtempprojectsql\classlibsys\obj\Debug\classlibsyswibc.vbproj.GenerateResource.Cache
+C:\Users\Hans\Desktop\tempprojectsql\classtempprojectsql\classlibsys\obj\Debug\classlibsysswibc.dll
+C:\Users\Hans\Desktop\tempprojectsql\classtempprojectsql\classlibsys\obj\Debug\classlibsysswibc.xml
+C:\Users\Hans\Desktop\tempprojectsql\classtempprojectsql\classlibsys\obj\Debug\classlibsysswibc.pdb
+C:\Users\Hans\Desktop\SWISY-BC\classtempprojectsql\classlibsys\bin\Debug\classlibsysswibc.dll
+C:\Users\Hans\Desktop\SWISY-BC\classtempprojectsql\classlibsys\bin\Debug\classlibsysswibc.pdb
+C:\Users\Hans\Desktop\SWISY-BC\classtempprojectsql\classlibsys\bin\Debug\classlibsysswibc.xml
+C:\Users\Hans\Desktop\SWISY-BC\classtempprojectsql\classlibsys\obj\Debug\classlibsysswibc.Resources.resources
+C:\Users\Hans\Desktop\SWISY-BC\classtempprojectsql\classlibsys\obj\Debug\classlibsyswibc.vbproj.GenerateResource.Cache
+C:\Users\Hans\Desktop\SWISY-BC\classtempprojectsql\classlibsys\obj\Debug\classlibsysswibc.dll
+C:\Users\Hans\Desktop\SWISY-BC\classtempprojectsql\classlibsys\obj\Debug\classlibsysswibc.xml
+C:\Users\Hans\Desktop\SWISY-BC\classtempprojectsql\classlibsys\obj\Debug\classlibsysswibc.pdb
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\classtempprojectsql\classlibsys\bin\Debug\classlibsysswibc.dll
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\classtempprojectsql\classlibsys\bin\Debug\classlibsysswibc.pdb
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\classtempprojectsql\classlibsys\bin\Debug\classlibsysswibc.xml
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\classtempprojectsql\classlibsys\obj\Debug\classlibsyswibc.vbprojResolveAssemblyReference.cache
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\classtempprojectsql\classlibsys\obj\Debug\classlibsysswibc.Resources.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\classtempprojectsql\classlibsys\obj\Debug\classlibsyswibc.vbproj.GenerateResource.Cache
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\classtempprojectsql\classlibsys\obj\Debug\classlibsysswibc.dll
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\classtempprojectsql\classlibsys\obj\Debug\classlibsysswibc.xml
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\classtempprojectsql\classlibsys\obj\Debug\classlibsysswibc.pdb
+C:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibsys\bin\Debug\classlibsysswibc.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibsys\bin\Debug\classlibsysswibc.pdb
+C:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibsys\bin\Debug\classlibsysswibc.xml
+C:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibsys\obj\Debug\classlibsysswibc.Resources.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibsys\obj\Debug\classlibsyswibc.vbproj.GenerateResource.Cache
+C:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibsys\obj\Debug\classlibsysswibc.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibsys\obj\Debug\classlibsysswibc.xml
+C:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibsys\obj\Debug\classlibsysswibc.pdb
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibsys\bin\Debug\classlibsysswibc.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibsys\bin\Debug\classlibsysswibc.pdb
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibsys\bin\Debug\classlibsysswibc.xml
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibsys\obj\Debug\classlibsysswibc.Resources.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibsys\obj\Debug\classlibsyswibc.vbproj.GenerateResource.Cache
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibsys\obj\Debug\classlibsysswibc.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibsys\obj\Debug\classlibsysswibc.xml
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibsys\obj\Debug\classlibsysswibc.pdb
+D:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibsys\bin\Debug\classlibsysswibc.dll
+D:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibsys\bin\Debug\classlibsysswibc.pdb
+D:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibsys\bin\Debug\classlibsysswibc.xml
+D:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibsys\obj\Debug\classlibsysswibc.Resources.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibsys\obj\Debug\classlibsyswibc.vbproj.GenerateResource.Cache
+D:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibsys\obj\Debug\classlibsysswibc.dll
+D:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibsys\obj\Debug\classlibsysswibc.xml
+D:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibsys\obj\Debug\classlibsysswibc.pdb

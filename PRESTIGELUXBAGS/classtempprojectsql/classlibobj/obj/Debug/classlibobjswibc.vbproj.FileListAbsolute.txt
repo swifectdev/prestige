@@ -1,0 +1,56 @@
+C:\Users\Hans\Desktop\tempprojectsql\classtempprojectsql\classlibobj\bin\Debug\classlibobjswibc.dll
+C:\Users\Hans\Desktop\tempprojectsql\classtempprojectsql\classlibobj\bin\Debug\classlibobjswibc.pdb
+C:\Users\Hans\Desktop\tempprojectsql\classtempprojectsql\classlibobj\bin\Debug\classlibobjswibc.xml
+C:\Users\Hans\Desktop\tempprojectsql\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.Resources.resources
+C:\Users\Hans\Desktop\tempprojectsql\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.rscImg.resources
+C:\Users\Hans\Desktop\tempprojectsql\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.vbproj.GenerateResource.Cache
+C:\Users\Hans\Desktop\tempprojectsql\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.dll
+C:\Users\Hans\Desktop\tempprojectsql\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.xml
+C:\Users\Hans\Desktop\tempprojectsql\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.pdb
+C:\Users\Hans\Desktop\SWISY-BC\classtempprojectsql\classlibobj\bin\Debug\classlibobjswibc.dll
+C:\Users\Hans\Desktop\SWISY-BC\classtempprojectsql\classlibobj\bin\Debug\classlibobjswibc.pdb
+C:\Users\Hans\Desktop\SWISY-BC\classtempprojectsql\classlibobj\bin\Debug\classlibobjswibc.xml
+C:\Users\Hans\Desktop\SWISY-BC\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.Resources.resources
+C:\Users\Hans\Desktop\SWISY-BC\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.rscImg.resources
+C:\Users\Hans\Desktop\SWISY-BC\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.vbproj.GenerateResource.Cache
+C:\Users\Hans\Desktop\SWISY-BC\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.dll
+C:\Users\Hans\Desktop\SWISY-BC\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.xml
+C:\Users\Hans\Desktop\SWISY-BC\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.pdb
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\classtempprojectsql\classlibobj\bin\Debug\classlibobjswibc.dll
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\classtempprojectsql\classlibobj\bin\Debug\classlibobjswibc.pdb
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\classtempprojectsql\classlibobj\bin\Debug\classlibobjswibc.xml
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.vbprojResolveAssemblyReference.cache
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.Resources.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.rscImg.resources
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.vbproj.GenerateResource.Cache
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.dll
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.xml
+C:\Users\Hans\Desktop\SWISY-BC -- NEWEST DO NOT DELETE\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.pdb
+C:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibobj\bin\Debug\classlibobjswibc.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibobj\bin\Debug\classlibobjswibc.pdb
+C:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibobj\bin\Debug\classlibobjswibc.xml
+C:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.Resources.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.rscImg.resources
+C:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.vbproj.GenerateResource.Cache
+C:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.dll
+C:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.xml
+C:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.pdb
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibobj\bin\Debug\classlibobjswibc.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibobj\bin\Debug\classlibobjswibc.pdb
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibobj\bin\Debug\classlibobjswibc.xml
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.vbprojResolveAssemblyReference.cache
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.Resources.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.rscImg.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.vbproj.GenerateResource.Cache
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.xml
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.pdb
+D:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibobj\bin\Debug\classlibobjswibc.dll
+D:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibobj\bin\Debug\classlibobjswibc.pdb
+D:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibobj\bin\Debug\classlibobjswibc.xml
+D:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.Resources.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.rscImg.resources
+D:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.vbproj.GenerateResource.Cache
+D:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.dll
+D:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.xml
+D:\Work\ON-GOING PROJECTS\SWISY-BC\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.pdb

@@ -1,0 +1,10 @@
+C:\Dropbox\Swifect Share\classLibrarySWIFECT-MRS\classlibsys\bin\Debug\classlibsysmrs.dll
+C:\Dropbox\Swifect Share\classLibrarySWIFECT-MRS\classlibsys\bin\Debug\classlibsysmrs.pdb
+C:\Dropbox\Swifect Share\classLibrarySWIFECT-MRS\classlibsys\bin\Debug\classlibsysmrs.xml
+C:\Dropbox\Swifect Share\classLibrarySWIFECT-MRS\classlibsys\obj\Debug\ResolveAssemblyReference.cache
+C:\Dropbox\Swifect Share\classLibrarySWIFECT-MRS\classlibsys\obj\Debug\classlibsysmrs.Resources.resources
+C:\Dropbox\Swifect Share\classLibrarySWIFECT-MRS\classlibsys\obj\Debug\GenerateResource.read.1.tlog
+C:\Dropbox\Swifect Share\classLibrarySWIFECT-MRS\classlibsys\obj\Debug\GenerateResource.write.1.tlog
+C:\Dropbox\Swifect Share\classLibrarySWIFECT-MRS\classlibsys\obj\Debug\classlibsysmrs.dll
+C:\Dropbox\Swifect Share\classLibrarySWIFECT-MRS\classlibsys\obj\Debug\classlibsysmrs.xml
+C:\Dropbox\Swifect Share\classLibrarySWIFECT-MRS\classlibsys\obj\Debug\classlibsysmrs.pdb

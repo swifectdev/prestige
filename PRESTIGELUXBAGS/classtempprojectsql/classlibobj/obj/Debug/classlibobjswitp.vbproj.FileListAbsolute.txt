@@ -1,0 +1,10 @@
+C:\Users\HANS-PC\OneDrive\Desktop\TAATPAJAK APPS\classtempprojectsql\classlibobj\bin\Debug\classlibobjswibc.dll
+C:\Users\HANS-PC\OneDrive\Desktop\TAATPAJAK APPS\classtempprojectsql\classlibobj\bin\Debug\classlibobjswibc.pdb
+C:\Users\HANS-PC\OneDrive\Desktop\TAATPAJAK APPS\classtempprojectsql\classlibobj\bin\Debug\classlibobjswibc.xml
+C:\Users\HANS-PC\OneDrive\Desktop\TAATPAJAK APPS\classtempprojectsql\classlibobj\obj\Debug\classlibobjswitp.vbprojResolveAssemblyReference.cache
+C:\Users\HANS-PC\OneDrive\Desktop\TAATPAJAK APPS\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.Resources.resources
+C:\Users\HANS-PC\OneDrive\Desktop\TAATPAJAK APPS\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.rscImg.resources
+C:\Users\HANS-PC\OneDrive\Desktop\TAATPAJAK APPS\classtempprojectsql\classlibobj\obj\Debug\classlibobjswitp.vbproj.GenerateResource.Cache
+C:\Users\HANS-PC\OneDrive\Desktop\TAATPAJAK APPS\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.dll
+C:\Users\HANS-PC\OneDrive\Desktop\TAATPAJAK APPS\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.xml
+C:\Users\HANS-PC\OneDrive\Desktop\TAATPAJAK APPS\classtempprojectsql\classlibobj\obj\Debug\classlibobjswibc.pdb

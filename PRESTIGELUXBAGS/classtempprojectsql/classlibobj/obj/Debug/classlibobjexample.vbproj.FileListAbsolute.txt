@@ -1,0 +1,11 @@
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibobj\bin\Debug\classlibobjexample.dll
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibobj\bin\Debug\classlibobjexample.pdb
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibobj\bin\Debug\classlibobjexample.xml
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibobj\obj\Debug\ResolveAssemblyReference.cache
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibobj\obj\Debug\classlibobjexample.Resources.resources
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibobj\obj\Debug\classlibobjexample.rscImg.resources
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibobj\obj\Debug\GenerateResource.read.1.tlog
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibobj\obj\Debug\GenerateResource.write.1.tlog
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibobj\obj\Debug\classlibobjexample.dll
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibobj\obj\Debug\classlibobjexample.xml
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibobj\obj\Debug\classlibobjexample.pdb

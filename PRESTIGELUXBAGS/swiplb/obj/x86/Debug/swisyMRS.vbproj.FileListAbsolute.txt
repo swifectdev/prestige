@@ -1,0 +1,104 @@
+C:\swisyMRS\swisyMRS\bin\Debug\swisyMRS.exe.config
+C:\swisyMRS\swisyMRS\bin\Debug\swisyMRS.exe
+C:\swisyMRS\swisyMRS\bin\Debug\swisyMRS.pdb
+C:\swisyMRS\swisyMRS\bin\Debug\swisyMRS.xml
+C:\swisyMRS\swisyMRS\bin\Debug\classlibobjmrs.dll
+C:\swisyMRS\swisyMRS\bin\Debug\classlibsysmrs.dll
+C:\swisyMRS\swisyMRS\bin\Debug\classlibobjmrs.pdb
+C:\swisyMRS\swisyMRS\bin\Debug\classlibobjmrs.xml
+C:\swisyMRS\swisyMRS\bin\Debug\classlibsysmrs.pdb
+C:\swisyMRS\swisyMRS\bin\Debug\classlibsysmrs.xml
+C:\swisyMRS\swisyMRS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.aboutus.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.changepass.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.confirmtrans.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.cusr.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.dbconfig.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.usrpriv.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.mbp.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.memp.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.mitm.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.mitmbrand.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.mitmgroup.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.mitmprc.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.mitmstock.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.mpayacc.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.muom.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.mwrh.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.menuutama.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.Resources.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.login.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.search.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.tsearch.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.tpurpay.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.tsaldep.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.tsalpay.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.tgi.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.tgr.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.tsopname.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.topay.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.tpurchasepayment.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.tsalespayment.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.tpo.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.trec.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.tdo.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.tmpso.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.tso.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\swisyMRS\swisyMRS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.exe
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.xml
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.pdb
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.printform.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.tsq.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.tpr.resources
+C:\swisyMRS\swisyMRS\obj\x86\Debug\swisyMRS.tcio.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\bin\Debug\swisyMRS.exe.config
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.exe
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.xml
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.pdb
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\bin\Debug\swisyMRS.exe
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\bin\Debug\swisyMRS.pdb
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\bin\Debug\swisyMRS.xml
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.aboutus.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.changepass.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.confirmtrans.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.cusr.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.dbconfig.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.usrpriv.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.mbp.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.memp.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.mitm.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.mitmbrand.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.mitmgroup.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.mitmprc.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.mitmstock.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.mpayacc.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.muom.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.mwrh.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.menuutama.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.Resources.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.login.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.printform.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.search.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.tsearch.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.tcio.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.tpurpay.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.tsalpay.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.tsaldep.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.tgi.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.tgr.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.tsopname.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.topay.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.tpurchasepayment.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.tsalespayment.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.trec.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.tpr.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.tpo.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.tsq.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.tdo.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.tmpso.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\swisyMRS.tso.resources
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dropbox\Swifect Share\SWISY\[SWISY-MRS] CSA\swisyMRS\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,10 @@
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibsys\bin\Debug\classlibsysexample.dll
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibsys\bin\Debug\classlibsysexample.pdb
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibsys\bin\Debug\classlibsysexample.xml
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibsys\obj\Debug\ResolveAssemblyReference.cache
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibsys\obj\Debug\classlibsysexample.Resources.resources
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibsys\obj\Debug\GenerateResource.read.1.tlog
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibsys\obj\Debug\GenerateResource.write.1.tlog
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibsys\obj\Debug\classlibsysexample.dll
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibsys\obj\Debug\classlibsysexample.xml
+C:\Dropbox\Swifect Share\tempprojectsql\classtempprojectsql\classlibsys\obj\Debug\classlibsysexample.pdb
